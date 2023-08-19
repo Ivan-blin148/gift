@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(168, 212, 206);
+    text-align: center;
+}
+
+h1{
+    color:rgb(51, 37, 75);
+    font-size: 50px;
+    text-align: center;
+}
+
+p{
+    color:rgb(51, 37, 75);
+    font-size: 30px;
+    text-align: center;
+}
+
+img{
+    width: 400px;
+}
+
+.cake{
+    width: 800px;
+}
+
+a{
+    text-align: center;
+    font-size: 30px;
+}
